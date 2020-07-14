@@ -1,0 +1,1 @@
+An example of code reduction (code duplication avoided).
